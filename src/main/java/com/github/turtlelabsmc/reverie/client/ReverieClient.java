@@ -8,6 +8,6 @@ public class ReverieClient implements ClientModInitializer
     @Override
     public void onInitializeClient()
     {
-        System.out.println("Reverie client loading");
+    
     }
 }
